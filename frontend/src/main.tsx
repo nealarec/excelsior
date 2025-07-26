@@ -4,7 +4,7 @@ import App from "./App.tsx";
 import Chatbot from "./Chatbot.tsx";
 import "./main.css";
 
-createRoot(document.getElementById("root")!).render(
+createRoot(document.getElementById("excel-bot")!).render(
   <StrictMode>
     <App />
     <Chatbot />

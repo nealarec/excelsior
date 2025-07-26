@@ -10,3 +10,5 @@ El sistema combina AWS Lambda, API Gateway y DynamoDB para manejar las conversac
 - Integración con AWS Lambda y API Gateway para escalabilidad serverless
 - Registro de métricas en DynamoDB para generar estadísticas
 - Despliegue en GitHub Pages como widget embebible en cualquier página.
+
+## Plataforma tecnológica

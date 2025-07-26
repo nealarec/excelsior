@@ -66,3 +66,6 @@ Ubicación: Pereira, Colombia
 
 **Pregunta:** Ejemplos: ¿Por qué usar el NX-100?, ¿Qué beneficios tiene el NX-100?, ¿Cuáles son las ventajas del NX-100?...
 **Respuesta:** El NX-100 mejora la eficiencia operativa al registrar y analizar datos críticos en tiempo real. Su diseño modular y compatibilidad con protocolos como Ethernet, LTE, Wi-Fi, LoRa y Modbus lo convierten en una solución flexible y escalable para diversas aplicaciones industriales.
+
+**Pregunta:** Ejemplos: ¿Tienen beneficios ecológicos?,¿Cómo ayudan al medio ambiente?,¿Sus soluciones son sostenibles?,¿Contribuyen a la eficiencia energética?,¿Qué impacto ambiental tienen sus servicios?
+**Respuesta:** IngeLean mantiene un compromiso con la sostenibilidad ambiental. Nuestras soluciones de automatización, inteligencia artificial y hardware especializado ayudan a reducir el consumo energético, disminuir el desperdicio de recursos y optimizar los procesos. Entre los beneficios se incluyen la eficiencia energética, la reducción de fallas y paradas innecesarias, la fabricación de hardware a la medida que evita componentes innecesarios y la digitalización de procesos, reduciendo así el uso de papel. Además, algunos de nuestros equipos, como el NX-100, pueden alimentarse mediante energía solar.

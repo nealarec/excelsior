@@ -1,0 +1,19 @@
+{
+  "name": "@excelsior/backend",
+  "version": "1.0.0",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pack": "cd dist/chatbot && zip -r ../chatbot.zip . && cd ../metrics && zip -r ../metrics.zip .",
+    "build": "node esbuild.config.js && npm run pack"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.8"
+  }
+}

@@ -12,3 +12,6 @@ El sistema combina AWS Lambda, API Gateway y DynamoDB para manejar las conversac
 - Despliegue en GitHub Pages como widget embebible en cualquier página.
 
 ## Plataforma tecnológica
+
+- El backend se encuentra escrito en node.js ES6 compilado con easbuild
+- El frontend se encuentra escrito en TypeScript y React compilado con vite

@@ -6,7 +6,8 @@ const client = new DynamoDBClient({});
 const dynamo = DynamoDBDocumentClient.from(client);
 
 export const handler = async (event) => {
-  const userMessage = event.message || "";
+  const body = JSON.parse(event.body || "{}");
+  const userMessage = body.message || "";
 
   const openaiRes = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
